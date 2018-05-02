@@ -1,5 +1,5 @@
 # HKO
-[![Build Status](https://travis-ci.org/nhho/hko.svg?branch=master)](https://travis-ci.org/nhho/hko)
+[![Build Status](https://travis-ci.com/nhho/hko.svg?branch=master)](https://travis-ci.org/nhho/hko)
 [![Coverage Status](https://coveralls.io/repos/github/nhho/hko/badge.svg?branch=master)](https://coveralls.io/github/nhho/hko?branch=master)
 
 A package to retrieve weather data from the [Hong Kong Observatory](http://www.hko.gov.hk).
